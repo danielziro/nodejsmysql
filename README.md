@@ -12,7 +12,7 @@ express: es un marco de aplicación web para Node.js
 
 nodejs: es un entorno en tiempo de ejecución multiplataforma, basado en lenguaje de programacion js(Javascript).
 
-mysql: Es una base de datos basada en javascript y es tambien de caracter nosql.
+mysql: Es una base de datos basada en javascript y es tambien de caracter sql.
 
 jwt: es una biblioteca Javascript de código abierto diseñada para crear tokens de seguridad para autenticar usuarios.
 
