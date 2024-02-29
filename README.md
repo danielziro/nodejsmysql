@@ -4,7 +4,6 @@ descripccion:
 ide de desarrollo: 
 -visual studio code ultima version.
 -mysql workbrench
--docker
 
 tecnologias usadas:
 
@@ -18,7 +17,9 @@ jwt: es una biblioteca Javascript de código abierto diseñada para crear tokens
 
 postman: es una aplicacion externa que sirve para hacer insercion a la api de forma directa por medio de los metodos establecidos para mandar o cumplir con cualquier funcion del crud manipulando informacion real o insertada por el cliente por medio de objetos json.
 
-usar para instalar en la carpeta node_modules: npm install express mysql npm install en la 
+docker:Contenedor de imagenes para montar sservidores en diferentes entornos de programacion permitiendo una alta disponibilidad de los mismos.
+
+usar para instalar en la carpeta node_modules: npm install express mysql2
 
 el proyecto esta separado en dos carpetas una que es frontend donde tenemos la vista de la aplicacion lo que se ve en web y otra que es backend que funciona antes de correr el proyecto abriremos mysql y el editor preferido. o en la consola de visual studio code una extencion de la misma. para correr a iniciar el proyecto una vez se exporte al ide se usara el siguiente por defecto el proyecto nos dejara ubicados en su carpeta raiz ahora lo que aremos para correr la parte del api es abrir la terminal de visual studio code y escribir el siguiente comando.
 
