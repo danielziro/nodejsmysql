@@ -9,7 +9,7 @@ tecnologias usadas:
 
 express: es un marco de aplicación web para Node.js
 
-nodejs: es un entorno en tiempo de ejecución multiplataforma, basado en lenguaje de programacion js(Javascript).
+nodejs: es un entorno en tiempo de ejecución multiplataforma, basado en lenguaje de programacion js(Javascript) con interpretacion en ecmascipt version 7 en adelante.
 
 mysql: Es una base de datos basada en javascript y es tambien de caracter sql.
 
